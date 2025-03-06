@@ -14,6 +14,7 @@ This project is a **real-time data visualization dashboard** built using **FastA
 
 ## 🛠 Technology Stack
 ### **Backend**
+
 - **FastAPI** – For handling API requests and WebSockets  
 - **WebSockets** – For real-time data updates  
 - **Uvicorn** – ASGI server to run FastAPI  
@@ -27,3 +28,4 @@ This project is a **real-time data visualization dashboard** built using **FastA
 
 ## Preview
 
+![Screenshot 2025-03-06 202843](https://github.com/user-attachments/assets/c7c7cd11-1ba1-4f9d-96c4-b9d5a2257751)
